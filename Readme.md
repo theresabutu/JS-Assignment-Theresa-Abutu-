@@ -1,5 +1,5 @@
 Question 1
-You can run JavaScript console in terminal or any command-line interface using Node. js
+You can run JavaScript console in terminal or any command-line interface using Node.js.
 Question 2
 With JavaScript you can:
 
